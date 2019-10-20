@@ -1,0 +1,57 @@
+body{
+    background-image: url("gambar/toyota86-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    font-family: serif!important;
+    font-size: 18px;
+    margin: 0;
+}
+.FOTO{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.header{
+    padding: 20px;
+    background-color:rgba(100, 100, 100, 0.925);
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    background-color: rgba(58, 58, 58, 0.979);
+    padding-right: 10px;
+}
+.navbar a{
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.side{
+    flex: 1;
+    background-color:rgba(134, 134, 134, 0.836);
+    padding: 35px;
+    padding-bottom: ;
+
+}
+.main{
+    flex: 25%;
+    background-color:rgba(36, 39, 39, 0.842);
+    padding: 50px;
+    padding-right: 300px;
+    padding-bottom:250px;
+    padding-left:110px;
+}
+.foother{
+    text-align: center;
+    padding: 5px;
+    padding-bottom:50px;
+    background-color:rgba(22, 22, 22, 0.993);
+    color: white;
+}
+

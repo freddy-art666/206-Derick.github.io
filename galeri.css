@@ -1,0 +1,22 @@
+body{
+    background: #222;
+    color: #666;
+}
+.navbar{
+    display: flex;
+    background-color: rgba(58, 58, 58, 0.979);
+    padding-right: 20px;
+}
+.navbar a{
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+img{
+    width: 43%;
+    height: 40%;
+    border: 1px solid #222;
+    padding: 5px;
+    margin: 30px;
+}
