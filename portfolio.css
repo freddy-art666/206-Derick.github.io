@@ -37,13 +37,15 @@ body{
 
 }
 .side{
-    flex: 1;
+    flex: 5%;
+    width: 10%;
     background-color:rgba(134, 134, 134, 0.836);
     padding: 35px;
     padding-bottom: ;
 
 }
 .main{
+    width: 10%;
     flex: 25%;
     background-color:rgba(36, 39, 39, 0.842);
     padding: 50px;
