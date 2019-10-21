@@ -12,7 +12,10 @@ body{
     padding: 15px 20px;
     text-decoration: none;
 }
-
+.navbar a:hover{
+    background-color:rgb(255, 255, 255); 
+    color:red;
+}
 img{
     width: 43%;
     height: 40%;

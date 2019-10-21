@@ -5,15 +5,19 @@ body{
 }
 .navbar{
     text-align: right;
-    background-color: rgb(39, 39, 39);
+    background-color: rgb(245, 245, 245);
     height: 25px;
-    padding: 25px;
+    padding: 35px;
 }
 .navbar a{
-    color: white;
+    color: black;
     padding: 15px 20px;
     text-decoration: none;
     font-size: 30px;
+}
+.navbar a:hover{
+    background-color:rgb(68, 68, 68); 
+    color:red;
 }
 .main{
     text-align: center;
